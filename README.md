@@ -5,7 +5,7 @@ Repository for learning something new
 ## List
 
 ### React
-- React tutorial(tic tac toe) / branch: [react/tutorial](./tree/react/tutorial)
+- React tutorial(tic tac toe) / branch: [react/tutorial](https://github.com/hee-develop/exercise/tree/react/tutorial)
 
 
 <br>
