@@ -7,6 +7,9 @@ Repository for learning something new
 ### React
 - React tutorial(tic tac toe) / branch: [react/tutorial](https://github.com/hee-develop/exercise/tree/react/tutorial)
 
+### [Javascript30.com](https://github.com/hee-develop/exercise/tree/javascript30)
+- Course1: Drum Kit / branch: [Drum Kit](https://github.com/hee-develop/exercise/tree/javascript30/course1)
+
 
 <br>
 
